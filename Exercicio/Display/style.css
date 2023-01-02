@@ -1,0 +1,49 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin: 0;
+  color: #fff;
+}
+
+.container {
+  padding: 2rem;
+}
+
+.carro {
+  background-color: black;
+  color: #b2b2b2;
+  padding: 2rem;
+  border-radius: 4px;
+  margin: 1rem;
+}
+
+.carro span {
+  color: #febe01;
+}
+
+.bicicleta {
+  background-color: black;
+  color: #b2b2b2;
+  padding: 2rem;
+  border-radius: 4px;
+  margin: 1rem;
+}
+
+.bicicleta span {
+  color: #febe01;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem;
+  text-decoration: none;
+  background-color: #febe01;
+  color: #332200;
+  border-radius: 4px;
+}
